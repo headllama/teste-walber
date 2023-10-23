@@ -1,0 +1,10 @@
+site_name: teste-walber
+system_name: system:default/system
+repo_url: 
+edit_uri: edit/master/docs
+
+plugins:
+  - techdocs-core
+
+nav:
+  - Introduction: index.md
